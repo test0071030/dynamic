@@ -1,5 +1,65 @@
 body{
-background-image:url(https://i.imgur.com/7ln94H4.png);
-background-repeat:no-repeat;
-background-size:cover;
+  overflow:hidden;
+  background-image:url(https://i.imgur.com/7ln94H4.png);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+#b{
+cursor: pointer;
+}
+
+#w1{ 
+  position:absolute;
+  right:78px;
+  top:102px;
+}
+
+#w2{ 
+  position:absolute;
+  right:105px;
+  top:125px;
+}
+
+#w3{
+  position:absolute;
+  right:113px;
+  top:142px;
+}
+
+#w4{
+  position:absolute;
+  right:123px;
+  top:155px;
+}
+
+#b{
+  position:absolute;
+  right:110px;
+  top:208px;
+}
+
+
+#fork{
+  position:absolute;
+  left:90px;
+  top:190px;
+}
+
+#knife{
+  position:absolute;
+  right:90px;
+  top:190px;
+}
+
+#plate{
+  position:absolute;
+  bottom:-70px;
+  left:190px;
+}
+
+#soup{
+  position:absolute;
+  bottom:-60px;
+  left:100px;
 }
