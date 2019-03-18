@@ -63,3 +63,41 @@ cursor: pointer;
   bottom:-60px;
   left:100px;
 }
+
+#plate1{
+  position:absolute;
+  bottom:30px;
+  left:500px;
+}
+
+#soup1{
+  position:absolute;
+  bottom:38px;
+  left:620px;
+}
+
+#plate2{
+  position:absolute;
+  bottom:145px;
+  left:-150px;
+}
+
+#soup2{
+  position:absolute;
+  bottom:155px;
+  left:-240px;
+}
+
+#plate3{
+  position:absolute;
+  bottom:240px;
+  left:500px;
+}
+
+#soup3{
+  position:absolute;
+  bottom:240px;
+  left:620px;
+}
+
+
